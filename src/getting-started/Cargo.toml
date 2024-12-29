@@ -5,5 +5,5 @@ edition = "2018"
 
 [dependencies]
 panic-halt = "~0.2"
-microbit="~0.8"
+microbit-v2="~0.8"
 cortex-m-rt="~0.6"
